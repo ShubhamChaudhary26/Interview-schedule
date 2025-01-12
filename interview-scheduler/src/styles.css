@@ -1,0 +1,26 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f7f7f7;
+  }
+  
+  .app-container {
+    text-align: center;
+    margin: 20px auto;
+    max-width: 900px;
+    padding: 10px;
+    background-color: white;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+  }
+  
+  h1 {
+    color: #333;
+    font-size: 24px;
+  }
+  
+  .calendar-container {
+    margin-top: 20px;
+  }
+  
