@@ -1,15 +1,16 @@
-Interview Scheduling Website
+# Interview Scheduling Website
 
 
 This project is an interview scheduling platform built with ReactJS, designed to help recruiters and candidates schedule interviews seamlessly. The website allows users to set available time slots, book appointments, and manage interview schedules.
 
-Features
-User Authentication: Secure login for both candidates and recruiters
-Interview Scheduling: Users can set available time slots and schedule interviews
-Calendar Integration: View interview schedules in a calendar format
-Real-time Notifications: Receive updates on interview status and changes
-Responsive Design: Optimized for both desktop and mobile devices
-User Dashboard: Personalized dashboard for both recruiters and candidates to manage their profiles and schedules
+# Features
+# User Authentication: Secure login for both candidates and recruiters
+# Interview Scheduling: Users can set available time slots and schedule interviews
+# Calendar Integration: View interview schedules in a calendar format
+# Real-time Notifications: Receive updates on interview status and changes
+# Responsive Design: Optimized for both desktop and mobile devices
+# User Dashboard: Personalized dashboard for both recruiters and candidates to manage their profiles and schedules
+# id = Shubham and Password = pass123
 Installation
 Clone this repository to your local machine:
 
